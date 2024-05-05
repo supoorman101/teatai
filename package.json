@@ -1,0 +1,23 @@
+{
+  "name": "teatai",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/supoorman101/teatai.git"
+  },
+  "keywords": [
+    "teatai"
+  ],
+  "author": "supoorman",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/supoorman101/teatai/issues"
+  },
+  "homepage": "https://github.com/supoorman101/teatai#readme",
+  "source": "https://github.com/supoorman101/teatai.git"
+}
